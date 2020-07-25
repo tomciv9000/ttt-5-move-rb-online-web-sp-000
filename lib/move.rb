@@ -12,3 +12,7 @@ def input_to_index(input)
  return number - 1
 end
   
+  
+def move
+  
+end
